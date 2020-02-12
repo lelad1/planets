@@ -199,12 +199,7 @@ Laurens-MacBook-Pro-3:planets LadyBug$ nano mars.txt
 
 
 
-
-
-
-
-
-
+the two moons might be a problem for wolf amn
   GNU nano 2.0.6                                           File: mars.txt                                                                                  Modified  
 
 cold and dry, but everything is red
